@@ -1,0 +1,14 @@
+.pycache/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+.env
+.idea/
+.vscode/
+tempCodeRunnerFile.py
+tempCodeRunnerFile.javascript
+build/
+dist/
+.ico
+.spec
