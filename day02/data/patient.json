@@ -1,0 +1,47 @@
+[
+  {
+    "patient_id": "001",
+    "name": "Ronaldo A.",
+    "age": 34,
+    "gender": "Male",
+    "diagnosis": "Hypertension",
+    "last_visit": "2025-11-10",
+    "medication": "Lisinopril 10mg"
+  },
+  {
+    "patient_id": "002",
+    "name": "Ronaldo B.",
+    "age": 28,
+    "gender": "Male",
+    "diagnosis": "Type 2 Diabetes",
+    "last_visit": "2025-10-22",
+    "medication": "Metformin 500mg"
+  },
+  {
+    "patient_id": "003",
+    "name": "Aonaldo C.",
+    "age": 42,
+    "gender": "Female",
+    "diagnosis": "Asthma",
+    "last_visit": "2025-09-15",
+    "medication": "Salbutamol Inhaler"
+  },
+  {
+    "patient_id": "004",
+    "name": "Ronaldo D.",
+    "age": 50,
+    "gender": "Male",
+    "diagnosis": "High Cholesterol",
+    "last_visit": "2025-12-01",
+    "medication": "Atorvastatin 20mg"
+  },
+  {
+    "patient_id": "005",
+    "name": "Zonaldo E.",
+    "age": 37,
+    "gender": "Female",
+    "diagnosis": "Migraine",
+    "last_visit": "2025-11-30",
+    "medication": "Sumatriptan 50mg"
+  }
+]
